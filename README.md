@@ -66,3 +66,11 @@ This project demonstrates practical implementation of:
   `src/medical_store.asm`
 - Assemble and link the program using your configured MASM/TASM environment.
 - Run the generated executable in the DOS environment.
+
+## Developer
+
+### Rimsha Tariq
+
+Computer Science Graduate
+
+⭐ If you like this project, feel free to give it a star!
