@@ -58,3 +58,11 @@ This project demonstrates practical implementation of:
 - Inventory management logic
 - Billing calculations
 
+## Installation
+- Install an 8086 Assembly development environment such as MASM/TASM or DOSBox with an assembler.
+- Clone the repository:
+  `git clone https://github.com/RumiBuilds/Medical-Billing-Management-System.git`
+- Open the source file:
+  `src/medical_store.asm`
+- Assemble and link the program using your configured MASM/TASM environment.
+- Run the generated executable in the DOS environment.
